@@ -1,6 +1,6 @@
 # Reconstructing the Invisible: Geophysical Inversion Methods in Medical Imaging
 
-Academic paper written for GEOV265 – Applied Geophysics II (University of Bergen), co-authored with Mathilde Johnsen Ødegaard.
+Academic paper written for GEOV265 - Applied Geophysics (University of Bergen), co-authored with Mathilde Johnsen Ødegaard.
 
 ## Overview
 This paper explores how geophysical imaging principles — originally developed for subsurface exploration — can be adapted for medical imaging. The focus is on applying Full-Waveform Inversion (FWI) to cranial imaging and inverse-scattering modelling to orthopaedic imaging, comparing both approaches against conventional CT, MRI, and ultrasound.
